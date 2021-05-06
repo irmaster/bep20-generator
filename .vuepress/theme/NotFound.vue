@@ -18,9 +18,11 @@
 
 <script>
   const msgs = [
+    'So, this is how it ends, eh?',
     'There\'s nothing here.',
     'How did we get here?',
     'That\'s a Four-Oh-Four.',
+    '808 bump? More like a 404, amirite?!'
     'Looks like we\'ve got some broken links.',
   ];
 
