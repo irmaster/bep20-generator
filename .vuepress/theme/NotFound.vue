@@ -22,8 +22,8 @@
     'There\'s nothing here.',
     'How did we get here?',
     'That\'s a Four-Oh-Four.',
-    '808 bump? More like a 404, amirite?!'
-    'Looks like we\'ve got some broken links.',
+    '808 bump? More like a 404, amirite?!',
+    'Looks like we\'ve got some broken links.'
   ];
 
   export default {
