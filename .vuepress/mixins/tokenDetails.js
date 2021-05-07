@@ -35,7 +35,7 @@ export default {
           tokenRecover: false,
           removeCopyright: false,
           originalPrice: 0.5,
-          price: 0.5,
+          price: 0.025,
           gas: 1333276,
         },
         {
@@ -53,7 +53,7 @@ export default {
           tokenRecover: false,
           removeCopyright: true,
           originalPrice: 2.5,
-          price: 1,
+          price: 0.05,
           gas: 1260139,
         },
         {
@@ -71,7 +71,7 @@ export default {
           tokenRecover: false,
           removeCopyright: true,
           originalPrice: 4.5,
-          price: 1.3,
+          price: 0.075,
           gas: 1444650,
         },
         {
@@ -89,7 +89,7 @@ export default {
           tokenRecover: false,
           removeCopyright: true,
           originalPrice: 5.5,
-          price: 1.7,
+          price: 1,
           gas: 1524151,
         },
         {
@@ -107,7 +107,7 @@ export default {
           tokenRecover: false,
           removeCopyright: true,
           originalPrice: 6.5,
-          price: 2.5,
+          price: 1.25,
           gas: 1708581,
         },
         {
@@ -125,7 +125,7 @@ export default {
           tokenRecover: false,
           removeCopyright: true,
           originalPrice: 7.5,
-          price: 3.5,
+          price: 1.5,
           gas: 1637163,
         },
         {
@@ -143,7 +143,7 @@ export default {
           tokenRecover: true,
           removeCopyright: true,
           originalPrice: 8.5,
-          price: 4,
+          price: 2,
           gas: 2254686,
         },
       ],
