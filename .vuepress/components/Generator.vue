@@ -493,7 +493,6 @@
 
           this.tokenType = 'SimpleBEP20';
         }
-        
         this.initToken(this.tokenType);
 
         this.updateTokenDetails();
