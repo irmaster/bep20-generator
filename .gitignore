@@ -9,3 +9,8 @@ node_modules/
 
 yarn.lock
 package-lock.json
+scripts/deploy.js
+build/
+cache/
+artifacts/
+.env.json
